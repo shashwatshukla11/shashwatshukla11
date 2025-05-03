@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Shashwat Shukla</h1>
-<h3 align="center">Computer Science Engineer | Test Automation & Cloud Enthusiast | SDE Aspirant</h3>
+<h3 align="center">Computer Science Engineer | Cloud Enthusiast | SDE Aspirant</h3>
 
 ---
 
